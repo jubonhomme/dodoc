@@ -98,7 +98,7 @@ export default function () {
         hide_meta: "Masquer les métadonnées",
         show_description: "Afficher la description",
         hide_description: "Masquer la description",
-        recover_password: "Récupérer mon de passe",
+        recover_password: "Récupérer mon mot de passe",
 
         visibility_progress: "Visibilité et état d’avancement",
         visibility_progress_text: `Indiquez ici l’état d’avancement du projet et qui pourra le consulter.`,
